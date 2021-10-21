@@ -12,3 +12,9 @@ body {
 body {
     font-family: 'Roboto', sans-serif;
 }
+h1 {
+    text-align: center;
+}
+p {
+    text-align: justify;
+}
